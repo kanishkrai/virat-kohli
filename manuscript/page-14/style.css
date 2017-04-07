@@ -1,0 +1,9 @@
+body {
+    font-size: 3.2vw;
+}
+
+ul {
+    list-style-type: square;
+    list-style-position: outside;
+    list-style-image: none;
+}

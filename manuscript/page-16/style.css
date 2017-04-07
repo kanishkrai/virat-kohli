@@ -1,0 +1,50 @@
+.logo{
+    margin: 0 0 5vh 0;
+}
+
+footer {
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+    height: 8vh;
+    background: #6f2c1b;
+    background: #00bcd2;
+    background: #2B5D80;
+    color: white;
+    font-size: 80%;
+}
+
+footer a {
+    color: #ff0;
+}
+
+footer a:hover {
+    color: #0ff;
+}
+
+.office{
+    position: absolute;
+    bottom: 6vh;
+    left: 5vw;
+    width: 90vw;
+    font-size: 2vw;
+}
+
+.qrcode{
+    position: absolute;
+    bottom: 10vh;
+    left: 5vw;
+    width: 90vw;
+    font-size: 2vw;
+}
+
+.qrcode ul {
+    width: 80%;
+    padding: 0;
+}
+
+.qrcode ul li{
+    list-style-type: none;
+    padding: none;
+    margin: 0;
+}

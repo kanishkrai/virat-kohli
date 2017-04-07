@@ -1,0 +1,73 @@
+body {
+    background: hsla(186, 100%, 72%, 0.2);
+    background: white;
+    background: #fdf4d5;
+    height: 92vh;
+}
+
+
+.leaf {
+  height: 90%;
+  height: 90vh;
+  width: 100%;
+  width: 100vw;
+  margin: auto;
+}
+
+
+
+.logo{
+    margin: 0 0 4vh 0;
+}
+
+.border {
+    border: 10px solid rgba(250 , 250 , 250, 0.9);
+    box-shadow: 2px 1px 1px rgba(0 , 0 , 0, 0.2);
+}
+
+
+footer {
+    position: absolute;
+    width: 100vw;
+    bottom: 0;
+    height: 8vh;
+    /*background: #6f2c1b;*/
+    background: #00bcd2;
+    /*background: #2B5D80;*/
+    color: white;
+    font-size: 80%;
+}
+
+footer a {
+    color: #ff0;
+}
+
+footer a:hover {
+    color: #0f0;
+}
+
+.vertical-pad {
+    padding: 0 0 8vw 0;
+
+}
+
+.badge{
+    position: absolute;
+    bottom: 1vw;
+    left: 17vw;
+    height: 8vw;
+    width: 8vw;
+}
+
+h2 {
+    margin:0;
+    padding: 0;
+}
+
+.office{
+    position: absolute;
+    bottom: 3vh;
+    left: 5vw;
+    width: 90vw;
+    font-size: 2vw;
+}

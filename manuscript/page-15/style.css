@@ -1,0 +1,31 @@
+.profile {
+    broder-radius: 50%;
+    border: 5px solid #fff;
+    border-radius: 50%;
+    box-shadow: 0 0 3vw rgba(0,0,0,0.35) inset, 0 0 2.25vw rgba(0,0,0,0.35);
+    height: 22.5vw;
+    left: -0.75vw;
+    top: -0.75vw;
+    width: 22.5vw;
+    background-image: url('https://raw.githubusercontent.com/kanishkrai/donald-trump/master/assets/images/astroupma.jpg');
+    background-size: cover;
+}
+
+.bio {
+    width: 75%;
+    width: 60vw;
+    padding: 0 2.5vw 0 0;
+    font-size: 3.2vw;
+}
+
+.left {
+    float: left;
+}
+
+.blue{
+    color: #2B5D80;
+}
+
+sup{
+    font-size: 50%;
+}
